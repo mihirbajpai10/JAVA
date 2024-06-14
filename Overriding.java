@@ -25,6 +25,7 @@
 
 class Test
 {
+    
     void show()
     {
         System.out.println("No arguments");
